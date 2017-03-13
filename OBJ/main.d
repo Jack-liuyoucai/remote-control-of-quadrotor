@@ -1,0 +1,17 @@
+..\OBJ\main.o: main.c
+..\OBJ\main.o: ..\SYSTEM\sys\sys.h
+..\OBJ\main.o: ..\USER\stm32f10x_map.h
+..\OBJ\main.o: ..\USER\stm32f10x_conf.h
+..\OBJ\main.o: ..\USER\stm32f10x_type.h
+..\OBJ\main.o: ..\USER\cortexm3_macro.h
+..\OBJ\main.o: ..\USER\stm32f10x_nvic.h
+..\OBJ\main.o: ..\SYSTEM\usart\usart.h
+..\OBJ\main.o: C:\Keil\ARM\RV31\INC\stdio.h
+..\OBJ\main.o: ..\SYSTEM\delay\delay.h
+..\OBJ\main.o: ..\HARDWARE\LED\led.h
+..\OBJ\main.o: ..\HARDWARE\SPI\spi.h
+..\OBJ\main.o: ..\HARDWARE\NRF24L01\24L01.h
+..\OBJ\main.o: C:\Keil\ARM\RV31\INC\math.h
+..\OBJ\main.o: ..\HARDWARE\ADC\adc.h
+..\OBJ\main.o: ..\HARDWARE\OLED\oled.h
+..\OBJ\main.o: C:\Keil\ARM\RV31\INC\stdlib.h
